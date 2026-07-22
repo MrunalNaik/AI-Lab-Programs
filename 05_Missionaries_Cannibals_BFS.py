@@ -103,7 +103,7 @@ if solution:
 
     print("\nSolution found in", len(solution)-1, "moves:\n")
 
-    for i, state in enumerate(solution):
+    for i, state in enumerate(solution): #gives index and state tuple
 
         lm = state.m
         lc = state.c

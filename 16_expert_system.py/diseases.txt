@@ -1,0 +1,14 @@
+Viral Fever: fever, fatigue, headache, body ache
+COVID-19: fever, cough, fatigue, shortness of breath, sore throat
+Influenza: fever, cough, headache, fatigue
+Dengue: fever, headache, joint pain, rash
+Malaria: fever, chills, sweating, headache
+Typhoid: fever, abdominal pain, headache, fatigue
+Chickenpox: fever, rash, blisters, itching
+Measles: fever, rash, cough, sore throat
+Tuberculosis: cough, weight loss, fever, night sweats
+Asthma: cough, wheezing, shortness of breath
+Bronchitis: cough, fatigue, sore throat
+Lyme Disease: joint pain, body ache, bull's-eye rash
+Food Poisoning: abdominal pain, vomiting, diarrhea
+Migraine: headache, nausea
